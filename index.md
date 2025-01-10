@@ -7,10 +7,9 @@
 ## Proyectos Destacados
 
 ### Proyecto 1: [Atrapa monedas con pygame](https://github.com/MarioS4t/Juego-de-Monedas-Pygame-)
-Una breve descripción de tu proyecto. ¿Qué hace? ¿Por qué es interesante?
-
+Como un apasionado de la programación y tambien de los videojuegos. Pude crear mi primer videojuego a mi manera
 ### Proyecto 2: [10 Proyectos con Python](https://github.com/MarioS4t/10-Proyects-Python)
-Otra breve descripción de otro proyecto. Incluye detalles que puedan interesar a los visitantes.
+10 Proyectos de python donde exploro todas sus funcionalidades
 
 ## Contacto
 
